@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🎓 I'm Luka Jovanovic, a programmer and designer pursuing my Bachelors of Information Technology, specializing in Interactive Multimedia and Design. ✨
+##
+## 🔭 I enjoy developing interactive experiences such as video games, mobile apps, or AR/VR journeys.
+##
+## 🎥 In my creative pursuits, I document all of my technical projects in fun videos on YouTube!
 <!--
 **LukaBazooka/LukaBazooka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
