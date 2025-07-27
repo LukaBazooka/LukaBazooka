@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🎓 I'm Luka Jovanovic, a programmer and designer pursuing my Bachelors of Information Technology, specializing in Interactive Multimedia and Design. ✨
+## 🎓 I'm Luka Jovanovic, a programmer and designer with a Bachelors of Information Technology, specializing in Interactive Multimedia and Design. ✨
 ##
 ## 🔭 I enjoy developing interactive experiences such as video games, mobile apps, or AR/VR journeys.
 ##
