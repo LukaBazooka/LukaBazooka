@@ -1,21 +1,22 @@
-## Hi there 👋
+## 👋 Hi there!
 
-## 🎓 I'm Luka Jovanovic, a programmer and designer with a Bachelors of Information Technology, specializing in Interactive Multimedia and Design. ✨
-##
-## 🔭 I enjoy developing interactive experiences such as video games, mobile apps, or AR/VR journeys.
-##
-## 🎥 In my creative pursuits, I document all of my technical projects in fun videos on YouTube!
-<!--
-**LukaBazooka/LukaBazooka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Luka Jovanovic — a programmer and designer with a Bachelor's in Information Technology, specializing in **Interactive Multimedia and Design**.
 
-Here are some ideas to get you started:
+🎮 I love building **interactive experiences**—whether that’s a video game, mobile app, or immersive AR/VR journey.  
+🎥 I also document many of my projects through fun, technical devlogs on YouTube.  
+💼 I currently work as a software developer at Carleton Immersive Media Studio.
+🌐 Check out my portfolio: [lukajovanovicportfolio.vercel.app](https://lukajovanovicportfolio.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [TheSpaceBetween](https://github.com/LukaBazooka/TheSpaceBetween) | Arduino-controlled biometric horror game built in Unity. |
+| [Mexican-Standoff](https://github.com/LukaBazooka/Mexican-Standoff) | Local multiplayer dueling game made in Godot with GDScript. |
+| [PomodoroWebsite](https://github.com/LukaBazooka/PomodoroWebsite) | Tomato-themed Pomodoro timer built with JavaScript and CSS. |
+
+---
+
+Thanks for stopping by!
