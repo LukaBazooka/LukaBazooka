@@ -13,7 +13,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [TheSpaceBetween](https://github.com/LukaBazooka/TheSpaceBetween) | Arduino-controlled biometric horror game built in Unity. |
+| [TheSpaceBetween](https://github.com/RedArtichoke/TheSpaceBetween) | Arduino-controlled biometric horror game built in Unity. |
 | [Mexican-Standoff](https://github.com/LukaBazooka/Mexican-Standoff) | Local multiplayer dueling game made in Godot with GDScript. |
 | [PomodoroWebsite](https://github.com/LukaBazooka/PomodoroWebsite) | Tomato-themed Pomodoro timer built with JavaScript and CSS. |
 
